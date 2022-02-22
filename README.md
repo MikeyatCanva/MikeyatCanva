@@ -1,4 +1,4 @@
-<h1> 👋 Hi there I'm <a href="https://github.com/MikeyatCanva>@MikeyatCanva</a>🧑‍🚀</h1> 
+<h1> 👋 Hi there I'm <a href="https://github.com/MikeyatCanva>@MikeyatCanva<"/a>🧑‍🚀</h1> 
 <p> 
 I'm the TA for all things F/E Engineering 🧑‍💻 (JavaScript & TypeScript are areas I'm particularly passionate about 💞).
 </p> 
