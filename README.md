@@ -3,7 +3,7 @@
 I'm the TA for all things F/E Engineering 🧑‍💻 (JavaScript & TypeScript are areas I'm particularly passionate about 💞).
 </p> 
 
-<h1> Who are Canva? 🙋❓❓ </h1> 
+<h1>🙋 Who are Canva❓</h1> 
 
 <p>
 🚀 Canva are one of the world's fastest growing tech companies within the design & graphics application space!📱💻 - with over 60 million users across 190 countries 🗺 (with an estimated 7 billion designs!)
