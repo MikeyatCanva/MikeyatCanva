@@ -17,6 +17,7 @@ If you want to check out more information about Canva why not look at our <a hre
 <h1> Who are we looking for? </h1>
 <p> 
 That's easy! our values can tell you all you need to know about our culture🥰💌!<a href="https://www.canva.com/careers/why-canva/">Values</a>💞
+  
 We look for passionate good✨ humans✨ who want to have a real impact and grow a company which has the literal goal: "Be a force for good!" 🌇
 
 If this sounds like you? why not have a look to see 👀 if we have a role that excites you? 😇<a href="https://www.canva.com/careers/jobs/?team=engineering&specialty=frontend-development"> CLICK ME! </a>
