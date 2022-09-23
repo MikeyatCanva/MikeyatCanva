@@ -6,7 +6,7 @@ I'm the TA for all things F/E Engineering 🧑‍💻 (JavaScript & TypeScript a
 <h1>🙋 Who are Canva❓</h1> 
 
 <p>
-🚀 Canva are one of the world's fastest growing tech companies within the design & graphics application space!📱💻 - with over 60 million users across 190 countries 🗺 (with an estimated 7 billion designs!)
+🚀 Canva are one of the world's fastest growing tech companies within the design & graphics application space!📱💻 - with over 80 million monthly active users across 200 countries 🗺 (with an estimated 7 billion designs!)
 Not only this - but Canva is only at 1% of what they want to achieve!💫
 
 Additonally, the team has attracted some incredible thought-leaders within their field 🧑‍🚀 so it is a great chance to do the best work of your life 😎, whilst also working for a company that empowers its' employees to be good humans!🥰
