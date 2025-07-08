@@ -1,37 +1,121 @@
-<h1> 👋 Hi there I'm <a href="https://github.com/MikeyatCanva">@MikeyatCanva</a>🧑‍🚀</h1> 
-<p> 
-I'm the TA for all things Infra/Cloud/Platform Engineering 🧑‍💻 (DevX/ Platform are the places I focus on) 
-</p> 
+<h1 align="center">🧑‍🚀 Michael Sarchet</h1>
+<h3 align="center">TA for Infra, Cloud & Platform Engineering @ Canva</h3>
 
-<h1>🙋 Who are Canva❓</h1> 
+<div align="center">
 
-<p>
-🚀 Canva are one of the world's fastest growing tech companies within the design & graphics application space!📱💻 - with over 80 million monthly active users across 200 countries 🗺 (with an estimated 7 billion designs!)
-Not only this - but Canva is only at 1% of what they want to achieve!💫
+🌏 Helping engineers build the future of design technology  
+☁️ Platform productivity pusher | 🛠️ DevX dreamer | 🎯 Cloud whisperer
 
-Additonally, the team has attracted some incredible thought-leaders within their field 🧑‍🚀 so it is a great chance to do the best work of your life 😎, whilst also working for a company that empowers its' employees to be good humans!🥰
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" />
 
-If you want to check out more information about Canva why not look at our <a href="https://www.linkedin.com/company/canva/about/">LinkedIn</a> or our <a href="https://www.canva.com/careers/">Careers Page</a>
-</p>
+</div>
 
-<h1> Who are we looking for? </h1>
-<p> 
-That's easy! our values can tell you all you need to know about our culture🥰💌!<a href="https://www.canva.com/careers/why-canva/">Values</a>💞
-  
-We look for passionate good✨ humans✨ who want to have a real impact and grow a company which has the literal goal: "Be a force for good!" 🌇
+---
 
-If this sounds like you? why not have a look to see 👀 if we have a role that excites you? 😇<a href="https://www.canva.com/careers/jobs/?team=engineering&specialty=frontend-development"> CLICK ME! </a>
-<h1> Now what? 🌱 </h1>
+## <div align="center">🎨 About Canva</div>
 
-<p>
-I hope that gives you an insight into who I am and who I work for! if you are interested reach out to me 🧑‍🚀📬💌
+<div align="center">
+  <strong>“We’re only at 1% of what we want to achieve.”</strong><br>
+  Our mission? <strong>Empower the world to design.</strong>
+</div>
 
-for a chat! 
-You can reach Michael at:
+<br>
 
-<ul>
-  <li><a href="https://www.linkedin.com/in/%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80-michael-sarchet-a338b4115/">💬LinkedIn</a></li>
-  <li><a href="https://github.com/MikeyatCanva">💻GitHub</a></li>
-  <li>📧michaels@canva.com</li>
-</ul>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Founded-2012-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Launched-2013-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Employees-5000+-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Profitable-7+_years-success?style=for-the-badge">
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🌍 Metric | 📈 Value |
+|----------|----------|
+| Monthly Active Users | `225M+` |
+| Paying Seats | `24M+` |
+| Annualised Revenue | `$2.5B` |
+| Total Designs Created | `30B+` |
+| Designs Per Second | `400+` |
+| Students & Teachers | `90M+` |
+| Nonprofits Supported | `750,000+` |
+
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.canva.com/about/"><img src="https://img.shields.io/badge/📚%20Learn%20More-Canva's%20Story-00C4CC?style=for-the-badge"></a>
+  <a href="https://www.canva.com/careers/"><img src="https://img.shields.io/badge/🚀%20Careers-Join%20Our%20Mission-purple?style=for-the-badge"></a>
+  <a href="https://www.canva.com/careers/why-canva/"><img src="https://img.shields.io/badge/💞%20Our%20Values-Culture%20First-ff69b4?style=for-the-badge"></a>
+</div>
+
+---
+
+## <div align="center">☁️ What I Do</div>
+
+<div align="center">
+
+I partner with engineers building:
+
+| 🧰 Area | What It Powers |
+|--------|----------------|
+| Cloud Infrastructure ☁️ | Scale, resilience, global reach |
+| Platform Engineering 🛠️ | Internal tools, frameworks, foundations |
+| DevX 🔄 | CI/CD, DX tooling, faster iteration |
+| Observability 👀 | Logs, traces, metrics & sleep at night |
+| Scaling Systems 📈 | 10 engineers → 1000 engineers, same platform |
+
+<br>
+
+<img src="https://img.shields.io/badge/☁️%20Cloud%20Infra-GCP%2C%20AWS%2C%20Terraform-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/🛠️%20Platform-Backstage%2C%20Bazel%2C%20Monorepo-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚡%20DevX-CI/CD%2C%20DX_Tools%2C%20DX_Love-success?style=for-the-badge">
+
+</div>
+
+---
+
+## <div align="center">🚀 Who We’re Looking For</div>
+
+<div align="center">
+
+We love:
+- Builders who scale infra with empathy  
+- Engineers who see platforms as products  
+- Devs who think DX is a superpower  
+- People who ask *why*, not just *how*
+
+<br>
+
+<a href="https://www.canva.com/careers/jobs/?team=engineering&specialty=platform-engineering">
+  <img src="https://img.shields.io/badge/👩‍💻%20Open%20Roles-Platform%20%7C%20Infra%20%7C%20DevX-00C4CC?style=for-the-badge">
+</a>
+<a href="https://www.canva.com/careers/why-canva/">
+  <img src="https://img.shields.io/badge/❤️%20Life%20at%20Canva-Culture%20%7C%20Benefits%20%7C%20Growth-8A2BE2?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+## <div align="center">📬 Let’s Connect</div>
+
+<div align="center">
+
+If you're into infrastructure, internal tools, developer happiness or just want to work on meaningful problems with great humans...
+
+Let's chat ☁️
+
+<br>
+
+<a href="mailto:michaels@canva.com"><img src="https://img.shields.io/badge/📧%20Email-michaels@canva.com-D14836?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80-michael-sarchet-a338b4115/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Michael%20Sarchet-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/MikeyatCanva"><img src="https://img.shields.io/badge/👨‍💻%20GitHub-MikeyatCanva-181717?style=for-the-badge&logo=github"></a>
+
+</div>
+
