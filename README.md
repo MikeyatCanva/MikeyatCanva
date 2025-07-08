@@ -37,8 +37,6 @@
 | 🌍 Metric | 📈 Value |
 |----------|----------|
 | Monthly Active Users | `225M+` |
-| Paying Seats | `24M+` |
-| Annualised Revenue | `$2.5B` |
 | Total Designs Created | `30B+` |
 | Designs Per Second | `400+` |
 | Students & Teachers | `90M+` |
