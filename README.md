@@ -1,6 +1,6 @@
 <h1> 👋 Hi there I'm <a href="https://github.com/MikeyatCanva">@MikeyatCanva</a>🧑‍🚀</h1> 
 <p> 
-I'm the TA for all things F/E Engineering 🧑‍💻 (JavaScript & TypeScript are areas I'm particularly passionate about 💞).
+I'm the TA for all things Infra/Cloud/Platform Engineering 🧑‍💻 (DevX/ Platform are the places I focus on) 
 </p> 
 
 <h1>🙋 Who are Canva❓</h1> 
